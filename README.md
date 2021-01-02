@@ -1,6 +1,6 @@
 # bash scripts
 
-[![basher install](https://github.com/gnud/bash-fix-ssdm-login/blob/master/bin/fixloginscreen)](https://basher.gitparade.com/package/)
+[![basher install](https://img.shields.io/badge/basher-install-white?logo=gnu-bash&style=flat)](https://basher.gitparade.com/package/)
 
 (Ubuntu tested >=18.04)
 
